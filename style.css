@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    
+}
+body{
+    /* background-color: rgb(9, 212, 219); */
+    background-image: url(https://drive.google.com/uc?id=1Uj2twE2qEG7CxsOUJEF9e_KyI2qCON-g);
+    
+}
+
+.header1{
+    color: rgb(221, 220, 220);
+    background: transparent;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+.header2{
+    color: rgb(80, 234, 240);
+    background: transparent;
+    font-size: 50px;
+    position: relative;
+    
+    
+}
+.para{
+    color: rgb(211, 205, 205);
+    background: transparent;
+    position: relative;
+    font-size: 20px;
+    
+
+}
+span{
+    color: yellow;
+    background: transparent;
+}
+.about{
+    border: 10px solid rgba(38, 38, 250, .3);
+    position: relative;
+    top: 280px;
+    padding: 30px;
+    margin-left: 10%;
+    margin-right: 50%;
+    border-radius: 50px 0;
+    background: transparent;
+    
+}
+.icon{
+    color: rgb(207, 195, 17);
+    margin-left: 10%;
+    margin-top: 400px;
+    align-items: right;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    
+    
+    
+}
+.fa-facebook{
+    
+}
+.fa-brands{
+    margin-right: 20px;
+    
+
+}
+.border{
+    border: 20px solid rgba(10, 10, 243, .3);
+    border-radius: 50px 0  ;
+    padding: 20px;
+    background-color: rgba(37, 218, 218, .3);
+}
+.border:hover{
+    color: rgb(245, 245, 245);
+    transition: 0.5s;
+    border-color: aqua;
+    box-shadow: 0 0 20px aqua;
+}
+.about:hover{
+    color: blue;
+    transition: 0.5s;
+    border-color: aqua;
+    box-shadow: 0 0 20px aqua;
+
+}
